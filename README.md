@@ -2,7 +2,7 @@
 
 ![](image1.jpg)
 
-## The brief information about the approach is given in the following [blog](https://medium.com/@shubhankarrawatsam.1999/heart-disease-prediction-73468d630cfc)
+## The brief information about the approach is given in the following [blog](http://arif.works/heart-disease-prediction/)
 
 ## Introduction
 
